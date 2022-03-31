@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import artist from '../img/artist.png'
-import programer from '../img/programer.png'
+import {artist, programer} from '../img'
 
 const Homepage = () => {
   return (

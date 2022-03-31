@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import photo from '../img/selfphoto.png'
-import back from '../img/back.png'
+import {back , selfphoto} from '../img'
+import Footer from './Footer'
 
 const Artist = () => {
   return (
@@ -11,7 +11,7 @@ const Artist = () => {
 
     <section className='first-section'>
       <div><h2>Wojciech Sordyl</h2><h3>Human Being</h3></div>
-      <img src={photo} alt='me' className='myphoto'/>
+      <img src={selfphoto} alt='me' className='myphoto'/>
     </section>
     <section className='about-skils'>
       <div className='about'><h2>About</h2>
@@ -21,6 +21,7 @@ const Artist = () => {
         <ul><li>Playing piano</li><li>Drawing</li><li>Inkscape</li><li>Figma</li><li>Contemporary Dance</li><li>Movement</li></ul>
       </div>
     </section>
+    <Footer />
     </div>
   )
 }
