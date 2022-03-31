@@ -62,7 +62,7 @@ a{
   text-align: left;
 }
 .myphoto{
-  width: 28em;
+  max-width: 28em;
   margin-left: -2em;
 }
 .about-skils{
@@ -204,5 +204,10 @@ footer p{
     margin: 2vw;
     width: 10vw;
     left:0;
+  }
+}
+@media screen and (max-width: 700px){
+  .myphoto{
+    width: 60vw;
   }
 }
