@@ -122,9 +122,9 @@ a{
 
 .projectdemo img{
   object-fit: cover;
-  height: 14.8em;
-  width: 13.8em;
-  border-radius: 15px;
+  height: calc(15em - 3px);
+  width: calc(14em - 3px);
+  border-radius: 13px;
   object-position: 43%;
 }
 
