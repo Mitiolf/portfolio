@@ -157,11 +157,11 @@ footer p{
   line-height: 1.4em;
 }
 @media screen and (max-width: 600px) {
-  .artist-container{
+  .programer-container{
     grid-area: 2 / 1 / 2 / 3;
     opacity: 1;
   }
-  .programer-container{
+  .artist-container{
     grid-area: 3 / 1 / 3 / 3;
     opacity: 1;
   }
@@ -185,11 +185,11 @@ footer p{
   }
   .about-skils{
     display: grid;
-    grid-template-columns: 60vw;
+    grid-template-columns: 70vw;
     margin-bottom: 2em;
   }
   .about p {
-    max-width: 60vw;
+    max-width: 70vw;
   }
   .footer{
     display: grid;
