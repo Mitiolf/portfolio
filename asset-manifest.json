@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6a349f18.css",
+    "main.js": "/portfolio/static/js/main.d57218ef.js",
+    "static/media/selfphoto.png": "/portfolio/static/media/selfphoto.48844df3647e099ca070.png",
+    "static/media/artist.png": "/portfolio/static/media/artist.db356fdeb2772487bcb7.png",
+    "static/media/programer.png": "/portfolio/static/media/programer.c8f954bf1038475a8db0.png",
+    "static/media/cryptocurrency.png": "/portfolio/static/media/cryptocurrency.22b7683e3aea629e4cae.png",
+    "static/media/tenzies.png": "/portfolio/static/media/tenzies.b4e6e17ae05ee67b8817.png",
+    "static/media/quiz.png": "/portfolio/static/media/quiz.4cdeb8e9f0628a31ca61.png",
+    "static/media/icons8-github.svg": "/portfolio/static/media/icons8-github.94e9ee40d8f46248fe396f77f05dd9f3.svg",
+    "static/media/icons8-linkedin.svg": "/portfolio/static/media/icons8-linkedin.8c8f8db43270cedf409453616eef84f1.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/back.svg": "/portfolio/static/media/back.eecc95fb98bfe732f24bf7fe570e8096.svg",
+    "static/media/icons8-facebook.svg": "/portfolio/static/media/icons8-facebook.fe73f499ad80ea32d15ce63cea3739f7.svg",
+    "main.6a349f18.css.map": "/portfolio/static/css/main.6a349f18.css.map",
+    "main.d57218ef.js.map": "/portfolio/static/js/main.d57218ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a349f18.css",
+    "static/js/main.d57218ef.js"
+  ]
+}
