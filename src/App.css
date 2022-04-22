@@ -31,6 +31,7 @@ h1{
 h2{
   font-size: 2.4em;
   margin-top: 0.8em;
+
 }
 .programer-container img, .artist-container img{
   width: 30vw;
@@ -52,6 +53,7 @@ a{
   position: fixed;
   margin: 1em;
   width: 3em;
+  height: 3em;
   left:0;
 }
 
@@ -101,11 +103,8 @@ a{
   justify-content: space-between;
   align-items: center;
   align-content: flex-start;
-  margin-bottom: 3.5em;
+  margin-bottom: 3em;
 }
-
-
-
 .projectdemo{
   border: solid 1.5px var(--text-primary);
   border-radius: 15px;
@@ -178,6 +177,7 @@ footer p{
   .projectdemo{
     width: 60vw;
     height: 60vw;
+    margin-left: 5vw;
   }
   .projectdemo img{
     width: calc(60vw - 3px);
@@ -203,11 +203,35 @@ footer p{
   .back{
     margin: 2vw;
     width: 10vw;
+    height: 10vw;
     left:0;
   }
 }
 @media screen and (max-width: 700px){
   .myphoto{
     width: 60vw;
+  }
+}
+
+
+.back:hover #arrow{
+animation: arrow-an 1s linear;
+}
+@keyframes arrow-an{
+  0%{transform:translateX(0%);}
+  33%{transform: translateX(-7%);}
+  66%{transform: translateX(6%);}
+  100%{transform: translateX(0%);}
+}
+.programer-container, .artist-container{
+  animation: fadeIn 0.6s
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
   }
 }
