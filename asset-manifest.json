@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b0b9a561.css",
-    "main.js": "/portfolio/static/js/main.e6f34b96.js",
+    "main.css": "/portfolio/static/css/main.919b0b83.css",
+    "main.js": "/portfolio/static/js/main.82b57afb.js",
     "static/media/selfphoto.png": "/portfolio/static/media/selfphoto.48844df3647e099ca070.png",
     "static/media/artist.png": "/portfolio/static/media/artist.db356fdeb2772487bcb7.png",
     "static/media/programer.png": "/portfolio/static/media/programer.c8f954bf1038475a8db0.png",
+    "static/media/nft-market.png": "/portfolio/static/media/nft-market.f15d8d5dc2807e9d2fb7.png",
     "static/media/cryptocurrency.png": "/portfolio/static/media/cryptocurrency.7d424f9df0f03ac7f9d6.png",
     "static/media/tenzies.png": "/portfolio/static/media/tenzies.b4e6e17ae05ee67b8817.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.4cdeb8e9f0628a31ca61.png",
     "static/media/icons8-github.svg": "/portfolio/static/media/icons8-github.94e9ee40d8f46248fe396f77f05dd9f3.svg",
     "static/media/icons8-linkedin.svg": "/portfolio/static/media/icons8-linkedin.8c8f8db43270cedf409453616eef84f1.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/back.svg": "/portfolio/static/media/back.eecc95fb98bfe732f24bf7fe570e8096.svg",
     "static/media/icons8-facebook.svg": "/portfolio/static/media/icons8-facebook.fe73f499ad80ea32d15ce63cea3739f7.svg",
-    "main.b0b9a561.css.map": "/portfolio/static/css/main.b0b9a561.css.map",
-    "main.e6f34b96.js.map": "/portfolio/static/js/main.e6f34b96.js.map"
+    "main.919b0b83.css.map": "/portfolio/static/css/main.919b0b83.css.map",
+    "main.82b57afb.js.map": "/portfolio/static/js/main.82b57afb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0b9a561.css",
-    "static/js/main.e6f34b96.js"
+    "static/css/main.919b0b83.css",
+    "static/js/main.82b57afb.js"
   ]
 }
