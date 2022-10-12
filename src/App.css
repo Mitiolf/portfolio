@@ -138,6 +138,7 @@ footer{
 }
 .icons-container{
   display: flex;
+  width: 7em;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-between;
@@ -198,7 +199,6 @@ footer p{
   .icons-container{
   grid-area: 2 / 1 / 2 / 2;
   margin-top: 2em;
-  width: 8em;
   }
   .back{
     margin: 2vw;

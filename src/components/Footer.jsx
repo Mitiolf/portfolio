@@ -1,5 +1,5 @@
 import React from 'react'
-import {github, facebook, linked} from '../img'
+import {github, facebook,} from '../img'
 
 
 const Footer = () => {
@@ -13,7 +13,6 @@ const Footer = () => {
         </div>
         <div className='icons-container'>
           <a href='https://github.com/Mitiolf' target="_blank" rel="noreferrer"><img src={github} alt='github'/></a>
-          <a href='https://www.linkedin.com/in/wojciech-sordyl-949b6a233/' target="_blank" rel="noreferrer"><img src={linked} alt='linkedin'/></a>
           <a href='https://www.facebook.com/wojtek.sordyl.98/' target="_blank" rel="noreferrer"><img src={facebook} alt='facebook'/></a>
         </div>
       </footer>
