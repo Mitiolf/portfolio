@@ -21,8 +21,8 @@ const Programer = () => {
       <section className='about-skils'>
         <div className='about'><h2>About</h2>
           <p>I'm a student of social computer science at AGH in Cracow.
-             In my studies, we learn some programming languages like python, basic HTML, CSS, but for me, it was not enough. 
-             It is the reason why I started learning from the internet.</p>
+              During my studies, I learned programming languages like Python, HTML, and CSS. I also get knowledge of UX/UI Design, IoT, and Data Science.
+              I have a big will to learn and get new experiences.</p>
         </div>
         <div className='skils'><h2>Skils</h2>
           <ul><li>Html</li><li>JavaScript</li><li>CSS</li><li>React</li><li>Git</li><li>Node</li><li>Figma</li></ul>

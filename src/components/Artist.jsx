@@ -20,14 +20,14 @@ const Artist = () => {
     </section>
     <section className='about-skils'>
       <div className='about'><h2>About</h2>
-        <p>I'm interested in every kind of art. Currently, I'm developing my dancing skills because it connects music and movement.
-        Music is important in my life because I was a student in the Wadowice Music School, where I learned how to play bassoon and piano.
-        Movement also plays a key role in my lifetime. I have been playing sports since I can remember.
+        <p>For me, art is a way of expression. Currently, I'm focusing on dance because it includes music and movement, but I like singing and drawing ass well.
+        Music is important to me because I attended the Wadowice Music School, where I learned to play bassoon and piano.
+        The movement also plays a key role in my life. I have been playing sports since I can remember.
         I'm fascinated by the human body and nature. I love hiking and being in the wild.
         </p>
       </div>
       <div className='skils'><h2>Skils</h2>
-        <ul><li>Playing piano</li><li>Drawing</li><li>Inkscape</li><li>Figma</li><li>Contemporary Dance</li><li>Movement</li></ul>
+        <ul><li>Playing piano</li><li>Drawing</li><li>Inkscape</li><li>Figma</li><li>Contemporary Dance</li><li>Movement</li><li>Canva</li><li>Singing</li></ul>
       </div>
     </section>
     <Footer />
