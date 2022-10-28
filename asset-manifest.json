@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.feb37003.css",
-    "main.js": "/portfolio/static/js/main.e8f427e8.js",
+    "main.js": "/portfolio/static/js/main.e1f659b5.js",
     "static/media/selfphoto.png": "/portfolio/static/media/selfphoto.48844df3647e099ca070.png",
     "static/media/artist.png": "/portfolio/static/media/artist.db356fdeb2772487bcb7.png",
     "static/media/programer.png": "/portfolio/static/media/programer.c8f954bf1038475a8db0.png",
-    "static/media/tenzies.png": "/portfolio/static/media/tenzies.b4e6e17ae05ee67b8817.png",
+    "static/media/tenzies.png": "/portfolio/static/media/tenzies.14331f7824125c216ac3.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.4cdeb8e9f0628a31ca61.png",
     "static/media/icons8-github.svg": "/portfolio/static/media/icons8-github.7bc15a2d842be98c856785d0e2ecb7a1.svg",
     "index.html": "/portfolio/index.html",
     "static/media/icons8-facebook.svg": "/portfolio/static/media/icons8-facebook.9a375ae21c054b77f2d9332215dea680.svg",
     "main.feb37003.css.map": "/portfolio/static/css/main.feb37003.css.map",
-    "main.e8f427e8.js.map": "/portfolio/static/js/main.e8f427e8.js.map"
+    "main.e1f659b5.js.map": "/portfolio/static/js/main.e1f659b5.js.map"
   },
   "entrypoints": [
     "static/css/main.feb37003.css",
-    "static/js/main.e8f427e8.js"
+    "static/js/main.e1f659b5.js"
   ]
 }
