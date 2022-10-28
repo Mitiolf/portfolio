@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import {tenzies, quiz, crypto, selfphoto , nft_market} from '../img'
+import {tenzies, quiz, selfphoto , github} from '../img'
 import Footer from './Footer'
 
 const Programer = () => {
@@ -15,7 +15,7 @@ const Programer = () => {
     </Link>
     
       <section className='first-section'>
-        <div><h2>Wojciech Sordyl</h2><h3>Front-end Developer</h3></div>
+        <div><h2>Wojciech Sordyl</h2><h3>Student of Social Computer Science</h3></div>
         <img src={selfphoto} alt='me' className='myphoto'/>
       </section>
       <section className='about-skils'>
@@ -33,8 +33,7 @@ const Programer = () => {
         <div className='projects-container'>
           <a href='https://mitiolf.github.io/quiz-2.0/' target="_blank" rel="noreferrer"><div className='projectdemo'><img src={quiz} alt='scren from app'/></div></a>
           <a href='https://mitiolf.github.io/tenzies/' target="_blank" rel="noreferrer"><div className='projectdemo'><img src={tenzies} alt='scren from app'/></div></a>
-          <a href='https://mitiolf.github.io/crypto-app-react/' target="_blank" rel="noreferrer"><div className='projectdemo'><img src={crypto} alt='scren from app'/></div></a>
-          <a href='https://mitiolf.github.io/NFT-Marketplace/' target="_blank" rel="noreferrer"><div className='projectdemo'><img src={nft_market} alt='scren from app'/></div></a>
+          <a href='https://github.com/Mitiolf' target="_blank" rel="noreferrer"><div className='projectdemo' style={{backgroundColor: '#552200ff', opacity: '0.9'}}><img src={github} alt='github'/></div></a>
         </div>
       </section>
       <Footer />
