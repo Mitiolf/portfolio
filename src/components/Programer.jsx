@@ -33,7 +33,8 @@ const Programer = () => {
         <div className='projects-container'>
           <a href='https://mitiolf.github.io/quiz-2.0/' target="_blank" rel="noreferrer"><div className='projectdemo'><img src={quiz} alt='scren from app'/></div></a>
           <a href='https://mitiolf.github.io/tenzies/' target="_blank" rel="noreferrer"><div className='projectdemo'><img src={tenzies} alt='scren from app'/></div></a>
-          <a href='https://github.com/Mitiolf' target="_blank" rel="noreferrer"><div className='projectdemo' style={{backgroundColor: '#552200ff', opacity: '0.9'}}><img src={github} alt='github'/></div></a>
+          <a href='https://github.com/Mitiolf' target="_blank" rel="noreferrer"><div className='projectdemo' style={{backgroundColor: '#552200ff', opacity: '0.9'}}>
+          <img src={github} style={{padding: '1em'}} alt='github'/></div></a>
         </div>
       </section>
       <Footer />
